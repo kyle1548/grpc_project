@@ -1,0 +1,6 @@
+[submodule "grpc_core"]
+	path = grpc_core
+	url = https://github.com/kyle1548/grpc_core.git
+[submodule "grpc_node_test"]
+	path = grpc_node_test
+	url = https://github.com/kyle1548/grpc_node_test.git
